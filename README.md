@@ -7,7 +7,8 @@ A simple GUI dektop app that gives hex code for different rgb variations.
 
 ![20220529_152243](https://user-images.githubusercontent.com/84112374/170861858-e91cac94-1178-4aef-9c02-327c575b8b24.gif)
 
-
+## Documentation
+https://docs.python.org/3/library/tk.html
 
 ## FAQ
 
