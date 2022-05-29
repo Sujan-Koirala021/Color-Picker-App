@@ -9,6 +9,7 @@ from tkinter import messagebox
 root = Tk()
 root.title("Color picker")
 root.geometry('560x300')
+root.iconbitmap('images/colorPickerIcon.ico')
 
 #   Disable maximize
 root.resizable(False, False)
